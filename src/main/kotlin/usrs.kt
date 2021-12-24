@@ -1,1 +1,0 @@
-data class users(var firstName: String, var lastName: String, var age: Int, var contacts: List<Contact>)
